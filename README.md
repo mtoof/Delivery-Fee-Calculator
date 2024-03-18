@@ -1,4 +1,22 @@
-# Wolt assignment 2024 README 🚀
+# Wolt assignment 2024 🚀
+This is my soluution for [Wolt Internship assignment 2024](https://github.com/woltapp/engineering-internship-2024).
+```
+├── Wolt-assignment-2024
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── docker-compose.yml
+│   ├── Dockerfile
+│   ├── Pipfile
+│   ├── app/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   ├── consts.py
+│   │   ├── calculation.py
+│   │   ├── time_validation.py
+│   ├── test/
+│   │   ├── __init__.py
+│   │   ├── test.py
+```
 
 I've put together this README with everyone in mind, aiming for simplicity and a user-friendly experience. I hope you find the information helpful.
 
