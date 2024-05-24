@@ -1,5 +1,5 @@
 # Wolt assignment 2024 🚀
-This is my soluution for [Wolt Internship assignment 2024](https://github.com/woltapp/engineering-internship-2024).
+This is my solution for [Wolt Internship assignment 2024](https://github.com/woltapp/engineering-internship-2024).
 ```
 ├── Wolt-assignment-2024
 │   ├── README.md
