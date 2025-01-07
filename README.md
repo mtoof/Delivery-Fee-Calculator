@@ -1,6 +1,6 @@
 # Wolt assignment 2024 🚀
 This is my solution for [Wolt Internship assignment 2024](https://github.com/woltapp/engineering-internship-2024).
-<br> I did project using FastAPI and recently did it using [Kotlin Spring boot](https://github.com/mtoof/delivery-fee-calculator-kotlin).
+<br> I did this project using FastAPI and recently did it using [Kotlin Spring boot](https://github.com/mtoof/delivery-fee-calculator-kotlin).
 ```
 ├── Wolt-assignment-2024
 │   ├── README.md
